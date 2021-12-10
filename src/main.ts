@@ -6,7 +6,7 @@ import { AppModule } from './app.module';
 import { MyLogger } from './config/mylogger';
 
 import * as fs from 'fs';
-
+// test commmit
 declare const module: any;
 
 const logger = new Logger('INFO');
